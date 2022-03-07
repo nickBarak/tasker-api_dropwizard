@@ -1,0 +1,4 @@
+.vscode
+postgres-data/
+target/
+.env

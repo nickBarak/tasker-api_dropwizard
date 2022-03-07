@@ -1,0 +1,9 @@
+logging:
+  level: INFO
+  loggers:
+    nickbarak: DEBUG
+
+server:
+  applicationConnectors:
+    - type: http
+      port: 8082
